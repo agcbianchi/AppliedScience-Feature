@@ -9,8 +9,10 @@ A Hierarchical Feature-Based Methodology to Perform Cervical Cancer Classificati
     </td>
     <td>
      <p>
-This article proposes a workload-reducing algorithm for cervical cancer detection based on analysis of cell nuclei features within Pap smear images. We investigate eight traditional machine learning methods to perform a hierarchical classification. We propose a methodology for computer-aided screening of cell lesions, which can recommend fields of view from the microscopy image based on the nuclei detection of cervical cells.
+This article proposes a workload-reducing algorithm for cervical cancer detection based on analysis of cell nuclei features within Pap smear images published at Applied Science. We investigate eight traditional machine learning methods to perform a hierarchical classification. We propose a methodology for computer-aided screening of cell lesions, which can recommend fields of view from the microscopy image based on the nuclei detection of cervical cells.
       
-      Acess the full text: https://doi.org/10.3390/app11094091
+      Authors: Débora N. Diniz, Mariana T. Rezende, Andrea G. C. Bianchi, Claudia M. Carneiro, Daniela M. Ushizima, Fátima N. S. de Medeiros, and Marcone J. F. Souza.
+      
+      Acess the full text: https://doi.org/10.3390/app11094091 (This article belongs to the Special Issue Advancing Biomedical Image Retrieval and Classification for Computer Aided Diagnosis)
  </tr>
 </table>
